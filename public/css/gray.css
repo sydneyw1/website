@@ -41,10 +41,3 @@ only screen and (                min-resolution: 2dppx) {
 .gallery-prev .bx-prev:hover  { background: #656d78 url('../../images/blog/prev@2x.png') no-repeat; background-size: 22px 22px;} 
 
 }
-
-
-
-
-
-/* DEMO ONLY */ 
-.parallax-bg2 { background-image: url(../../images/services-gray.jpg); }
